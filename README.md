@@ -12,10 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">HELLO WORLD</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+WORLD;Second+line+of+text)](https://git.io/typing-svg)
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://mirh137.github.io/)
+
 ### STATS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirh137&show&rank_icon=github&icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirh137&theme=merko)
-[![Click ME!]](https://mirh137.github.io/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirh137&show&rank_icon=github&icons=true&theme=merko)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirh137&theme=merko)<br>
+
 ### LANGUAGES
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
