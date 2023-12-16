@@ -12,11 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">HELLO WORLD</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+WORLD;Second+line+of+text)](https://git.io/typing-svg)
-[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://mirh137.github.io/)
-
 ### STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirh137&show&rank_icon=github&icons=true&theme=merko)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirh137&theme=merko)<br>
@@ -32,6 +27,11 @@ Here are some ideas to get you started:
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### OTHER
+### FRAMEWORKS 
+
+### TOOLS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+### LINKS
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://mirh137.github.io/)
